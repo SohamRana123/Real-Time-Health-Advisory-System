@@ -19,3 +19,6 @@ This project demonstrates a real-time health advisory system using the Pathway f
 - `backend.py`: Core data processing and RAG pipeline setup.
 - `app.py`: Frontend dashboard for live data and recommendations.
 - `simulate_data.py`: Simulated real-time data generator.
+  
+## Demo Video
+[Download and Watch the Demo Video](https://drive.google.com/file/d/1afawMjx5RV4_FSco8iXpYQ13VG1uexhg/view?usp=sharing)
